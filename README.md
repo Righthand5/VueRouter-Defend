@@ -4,5 +4,6 @@
 vueRouter网址：  
 <https://router.vuejs.org/zh/guide/advanced/navigation-guards.html>  
 哔哩哔哩网址：山地人老师<-强力推荐  
-<https://www.bilibili.com/video/BV1Pt411e7aH?p=11&spm_id_from=pageDriver>
-本人使用是WebStorm，启动可以左键-》run index.html
+<https://www.bilibili.com/video/BV1Pt411e7aH?p=11&spm_id_from=pageDriver>  
+本人使用是WebStorm  
+启动可以左键-> run index.html
