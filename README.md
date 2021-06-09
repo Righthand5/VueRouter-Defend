@@ -6,4 +6,12 @@ vueRouter网址：
 哔哩哔哩网址：山地人老师<-强力推荐  
 <https://www.bilibili.com/video/BV1Pt411e7aH?p=11&spm_id_from=pageDriver>  
 本人使用是WebStorm  
-启动可以左键-> run index.html
+启动可以左键-> run index.html  
+引入的vue库
+``` javascript
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+```
+引入的vueRouter库
+``` javascript
+<script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+```
